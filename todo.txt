@@ -1,6 +1,6 @@
-//edit-blog
-//get-blogs
-//create-comment-for-blog
-//like-blog
-//bookmark-blog
+            //edit-blog
+            //get-blogs
+            //create-comment-for-blog
+            //like-blog
+            //bookmark-blog
             //create-blog
