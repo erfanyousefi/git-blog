@@ -1,0 +1,28 @@
+{
+  "name": "git-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "login.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erfanyousefi/git-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erfanyousefi/git-blog/issues"
+  },
+  "homepage": "https://github.com/erfanyousefi/git-blog#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^17.5.1",
+    "@commitlint/config-conventional": "^17.4.4",
+    "husky": "^8.0.3"
+  }
+}

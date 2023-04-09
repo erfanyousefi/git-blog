@@ -14,5 +14,5 @@ file.*
 name[1sae].txt
 .env**
 !.env.example
-
+node_modules
 !.gitkeep
