@@ -1,0 +1,16 @@
+# log - temp - hidden - personal - video - photo
+*.log
+upload/*
+file.*
+!file.pdf
+# **/zip-files/*
+# lib/**/*.zip
+# lib/**/*.rar
+# blog/**/*.zip
+# blog/**/*.rar
+*.zip
+*.rar
+name[1sae].txt
+.env**
+!.env.example
+lib/*
