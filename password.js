@@ -5,3 +5,6 @@ function passwordGenerator(){
 function resetPassword(){
 
 }
+function sentOTP(){
+  //sendSMS
+}
