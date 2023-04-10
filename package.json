@@ -21,14 +21,6 @@
   },
   "homepage": "https://github.com/erfanyousefi/git-blog#readme",
   "devDependencies": {
-    "@commitlint/cli": "^17.5.1",
-    "@commitlint/config-conventional": "^17.4.4",
-    "cz-conventional-changelog": "^3.3.0",
-    "husky": "^8.0.3"
-  },
-  "config": {
-    "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
-    }
+    "cz-conventional-changelog": "^3.3.0"
   }
 }
